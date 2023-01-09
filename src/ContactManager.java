@@ -1,13 +1,9 @@
 import java.util.Arrays;
 
 public class ContactManager {
-    //private String contact;
     private String[] list = new String[0];
 
     public ContactManager (){
-        //this.contact = contact;
-        //list[0] = contact;
-
     }
 
     public void addContact(String contact){
